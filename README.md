@@ -16,11 +16,13 @@ This tutorial outlines the installation of Windows in a Azure virtual machine.<b
 - Windows 10</b> (21H2)
 
 <h2>List of Prerequisites</h2>
-- Create a free [Microsoft Azure account](https://azure.microsoft.com/en-us/free)
+- Create a free Microsoft Azure account
 
 <h2>Installation Steps</h2>
 
 <p>
+![image](https://github.com/Cristofergutierrez/create-vm/assets/143570897/68db3036-d177-4be6-9544-d87d54ff48be)
+
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
